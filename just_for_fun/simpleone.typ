@@ -1,4 +1,4 @@
-// a simple template for 劳动教育
+// a simple template for 劳动教育（或其他
 
 #let indent = h(2em)
 
